@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Insert web page title here</title>
+    <meta http-equiv="Content-Style-Type" content="text/css">
+    <meta name="generator" content="thesitewizard.com's Layout Wizard 3.0.1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="all" href="styles.css">
+</head>
+  <body style="     background-color:#181b1a">
+    <div id="home">
+      <div id="tswcontainer">
+        <div id="tswheader">
+          <p> </p>
+          <h1><span style="font-family: Microsoft PhagsPa;"><span style="font-family: DejaVu Sans;"></span></span>&nbsp;
+            🎮<span style="font-family: Microsoft PhagsPa;"> <em><span style="font-family: Trebuchet MS;">FR</span></em></span></h1>
+        </div>
+        <div id="tswcontent">
+          <div id="tswcontproper">
+            <h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+              &nbsp;&nbsp;&nbsp; Home</h1>
+            <br>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+              <img src="https://www.freepngimg.com/thumb/clash_of_clans/90638-clash-of-emote-yellow-artwork-royale-clans-thumb.png"
+
+                alt="Download Games Free PNG photo images and clipart | FreePNGImg"
+
+                style="width: 1179px; height: 961px;">&nbsp;&nbsp;&nbsp;&nbsp; </p>
+          </div>
+        </div>
+        <div id="tswsidecol">
+          <div id="tswsideproper"> <a href="#" class="myButton">Home</a>
+            <br>
+            <br>
+            <a href="games.html" class="myButton">Games</a> </div>
+        </div>
+        <div style="clear: both;"></div>
+        <div id="tswfooter"><br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
